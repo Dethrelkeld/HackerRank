@@ -1,6 +1,9 @@
 // My code is at the bottom:
 // ------------------------
 
+
+// HackerRank arithmetic operators challenge
+
 // Objective
 
 // In this challenge, we practice using arithmetic operators. Check out the attached tutorial for resources.
